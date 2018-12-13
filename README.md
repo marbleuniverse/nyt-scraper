@@ -1,1 +1,1 @@
-# nyt-scraper
+This project was extremely difficult for me, I could not seem to get cheerio to work no matter how hard I tried. 
